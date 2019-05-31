@@ -1,0 +1,39 @@
+.information-prof {
+    margin-top: 50px;
+}
+
+.information-prof .group-info {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.information-prof .group-info .label-info {
+    width: 150px;
+    color: black;
+    font-weight: 600;
+}
+
+.information-prof .committee-info {
+    display: flex;
+    flex-direction: row;
+}
+
+.information-prof .group-info .p-name {
+    color: #262426;
+    font-size: 16px;
+    width: 150px;
+}
+
+.information-prof .group-info .p-degree {
+    color: #262426;
+    font-size: 16px;
+}
+
+.composition-students {
+    margin-top: 50px;
+}
+
+.composition-students h3{
+    margin: 20px;
+}

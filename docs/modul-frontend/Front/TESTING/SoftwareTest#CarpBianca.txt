@@ -1,0 +1,16 @@
+		Software Test 
+
+->user_dashboard: se vor afisa noutatile care vor fi introduse in formularul din insert_license_info.html de catre admin;
+-o eroare ar putea aparea daca prin apasarea butonului Post stirea nu ar fi afisata in pagina Dashboard la care are acces user-ul;
+-succesul este reprezentat de afisarea noutatilor in Dashboard;
+-noutatile fara continut nu ar trebui afisate, campurile ar trebui sa devina obligatorii pentru a impiedica postarea noutatilor lipsite de text;
+
+->edit_committees: butoanele sunt functionale;
+-butonul submit afiseaza o noua comisie; 
+-neafisarea in mod corect a optiunilor alese ar putea reprezenta o problema;
+
+->edit_account:
+-disfunctionalitatea optiunilor de delete ar putea cauza o problema; stergea corecta din baza de date si actualizarea informatiilor;
+
+->create_new_account:
+-creearea unui cont pentru un profesor poate prezenta problema in lucru cu baza de date si in reactualizarea informatiilor;

@@ -1,0 +1,63 @@
+.content .button-class {
+    margin-top: 30px;
+
+    height: 150px;
+    width: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+button {
+    margin-right: 10px;
+    height: 50px;
+    width: 200px;
+}
+
+.header-table {
+    margin: 30px 10px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.table-edit-delete {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.table-edit-delete .edit-committees {
+    color: #0F9D58;
+    cursor: pointer;
+}
+
+.table-edit-delete .delete-committees {
+    color: #dd4b39;
+    cursor: pointer;
+}
+
+.select-committees h3 {
+    margin-bottom: 10px;
+}
+
+.select-committees {
+    min-width: 100%
+}
+
+.select-committees .button-select-div {
+    align-items: center;
+}
+
+.select-license {
+    width: 80%;
+}
+
+/* --- Check box ---*/
+
+.check-box {
+    width: 100%;
+    height: 30px;
+}

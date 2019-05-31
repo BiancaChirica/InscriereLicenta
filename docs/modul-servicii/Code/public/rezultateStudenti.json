@@ -1,0 +1,31 @@
+{
+"nume document" : "Rezultate studenti",
+"studenti": [
+   { "id" : "1",
+     "nota_teorie" : "8",
+     "nota_lucrare" : "9" ,
+     "nota_finala" : "10",
+     "rezultat" : "Picat",
+     "email" : "testhhh@gmai"
+},
+{
+	"id" : "2",
+     "nota_teorie" : "1",
+     "nota_lucrare" : "1" ,
+     "nota_finala" : "10",
+     "rezultat" : "Picat",
+     "email" :  "test@gmai"
+},
+{
+	"id" : "3",
+     "nota_teorie" : "14",
+     "nota_lucrare" : "3" ,
+     "nota_finala" : "10",
+     "rezultat" : "Promovat",
+     "email" :  "testhh@gmai"
+}
+
+]
+}
+
+

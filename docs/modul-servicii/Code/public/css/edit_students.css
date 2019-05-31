@@ -1,0 +1,23 @@
+#form-students{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 50px 0 50px 0;
+}
+
+#choose-student {
+    width: 300px;
+}
+
+#button-select {
+    margin: 10px 100px 0 100px;
+    width: 100px;
+    background: #0F9D58;
+}
+
+
+
+table .column-delete:hover {
+    color: #dd4b39;
+}

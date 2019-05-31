@@ -1,0 +1,49 @@
+.all-content-dist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.date-selection {
+    width: 355px;
+    height: 200px;
+    background-color: #ededed;
+
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    padding: 5px;
+    font-size: 18px;
+}
+
+.input-dist {
+    margin-left: 5px;
+    width: 335px;
+    padding: 5px;
+    font-size: 18px;
+    color: #424242;
+    border: 1px solid #919191;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.button-dist-submit {
+    margin-left: 190px;
+    width: 150px;
+    height: 35px;
+    padding-top: 8px;
+    font-weight: bold;
+    background-color: #0F9D58;
+}
+
+.button-dist-g {
+    height: 40px;
+}
+
+.button-dist-zone {
+    width: 100%;
+}
+
+

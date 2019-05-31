@@ -1,0 +1,29 @@
+ol {
+    counter-reset:item; 
+    margin:0; 
+    padding-left:0; 
+}
+ol>li {
+    counter-increment:item; 
+    list-style:none inside; 
+    margin: 40px 0;
+    overflow: hidden;
+    font-size: 18px !important;
+    line-height: 2.5;
+}
+ol>li:before {
+    content:counter(item) ;
+    margin-right: 20px;
+    padding: 5px;
+    display: block;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 40px;
+    background: #509DE5;
+    color: #fff;
+    text-align: center; 
+    font: 30px 'Lato', Helvetica, Arial, sans-serif;
+    font-weight: 30;
+    float: left;
+}

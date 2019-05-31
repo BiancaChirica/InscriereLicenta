@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="412fcdcc-2fb5-409c-b401-19a1b91449cf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/proiectIpit3V1_2$testGreedy.ic" NAME="testGreedy Coverage Results" MODIFIED="1557723059635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Algoritmi.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/proiectIpit3V1_2$testBack.ic" NAME="testBack Coverage Results" MODIFIED="1557722970756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Algoritmi.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/proiectIpit3V1_2$TestGreedy.ic" NAME="TestGreedy Coverage Results" MODIFIED="1557749761671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>junitTesting.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/proiectIpit3V1_2$TestBack.ic" NAME="TestBack Coverage Results" MODIFIED="1557749743672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>junitTesting.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="198" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1051">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algoritmi/CreateInput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2363">
+              <caret line="139" column="36" lean-forward="true" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DatabaseConnection/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="86" column="27" lean-forward="true" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/junitTesting/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-170">
+              <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DateBd/ComisieLicenta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DateBd/Comisie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DatabaseConnection/DataBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DateBd/ComisieMaster.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Algoritmi/Back.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/junitTesting/TestGreedy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>studenti</find>
+      <find>bool</find>
+      <find>.get</find>
+      <find>cromozomi[i][i1] = rand.nextInt</find>
+      <find>cromozomi[i][i1] =</find>
+      <find>cross_individs</find>
+      <find>nrstudenti</find>
+      <find>listaStudentAux</find>
+      <find>System</find>
+      <find>nrProf</find>
+      <find>alocareRezultatFinal</find>
+      <find>adaugaLaComisiiStudentiiCuProfesoriInEle</find>
+      <find>listaIdStudenti</find>
+      <find>comisieLicenta</find>
+      <find>ComisieLicenta</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>boolean</replace>
+      <replace>crossIndivizi</replace>
+      <replace>listaStudent</replace>
+      <replace>listaStudenti</replace>
+      <replace>comisie</replace>
+      <replace>Comisie</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Professor.java" />
+        <option value="$PROJECT_DIR$/src/Student.java" />
+        <option value="$PROJECT_DIR$/src/Programare.java" />
+        <option value="$PROJECT_DIR$/src/Profesor.java" />
+        <option value="$PROJECT_DIR$/src/ProgramareLicenta.java" />
+        <option value="$PROJECT_DIR$/src/ComisieLicenta.java" />
+        <option value="$PROJECT_DIR$/src/CreatorComisii.java" />
+        <option value="$PROJECT_DIR$/src/DateBd/ProfesorNumarStudenti.java" />
+        <option value="$PROJECT_DIR$/src/ProfesorNumarStudenti.java" />
+        <option value="$PROJECT_DIR$/src/CreatorComisiiLicenta.java" />
+        <option value="$PROJECT_DIR$/src/CreatorComisie/AlocareTimpStudenti.java" />
+        <option value="$PROJECT_DIR$/src/DateBd/ProgramareLicenta.java" />
+        <option value="$PROJECT_DIR$/junit.testing/CreatorComisie/CreatorComisiiLicentaTest.java" />
+        <option value="$PROJECT_DIR$/junit.testing/DateBd/ProfesorTest.java" />
+        <option value="$PROJECT_DIR$/junit.testing/DateBd/ComisieLicentaTest.java" />
+        <option value="$PROJECT_DIR$/junit.testing/DateBd/ProgramareLicentaTest.java" />
+        <option value="$PROJECT_DIR$/junit.testing/DateBd/StudentTest.java" />
+        <option value="$PROJECT_DIR$/src/CreatorComisie/CreatorComisiiLicenta.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmi/Cronometru.java" />
+        <option value="$PROJECT_DIR$/src/DateBd/Profesor.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa7512.36963/Main.java" />
+        <option value="$PROJECT_DIR$/src/DatabaseConnection/DataBase.java" />
+        <option value="$PROJECT_DIR$/src/DateBd/Student.java" />
+        <option value="$PROJECT_DIR$/src/junitTestingMockito/CreateInput.java" />
+        <option value="$PROJECT_DIR$/src/junitTestingMockito/testBack.java" />
+        <option value="$PROJECT_DIR$/src/junitTestingMockito/testGreedy.java" />
+        <option value="$PROJECT_DIR$/src/junitTesting/CreateInput.java" />
+        <option value="$PROJECT_DIR$/src/junitTesting/testController.java" />
+        <option value="$PROJECT_DIR$/src/junitTesting/testGreedy.java" />
+        <option value="$PROJECT_DIR$/src/junitTesting/testBack.java" />
+        <option value="$PROJECT_DIR$/src/DateBd/ComisieMaster.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmi/Greedy.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmi/Genetic.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmi/Back.java" />
+        <option value="$PROJECT_DIR$/src/DateBd/Comisie.java" />
+        <option value="$PROJECT_DIR$/src/DateBd/ComisieFunctii.java" />
+        <option value="$PROJECT_DIR$/src/DateBd/ComisieGenerala.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/junitTesting/TestGreedy.java" />
+        <option value="$PROJECT_DIR$/src/junitTesting/TestBack.java" />
+        <option value="$PROJECT_DIR$/src/DateBd/ComisieLicenta.java" />
+        <option value="$PROJECT_DIR$/src/Algoritmi/CreateInput.java" />
+        <option value="$PROJECT_DIR$/src/junitTesting/TestController.java" />
+        <option value="$PROJECT_DIR$/src/DatabaseConnection/Controller.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\Bogdan\Desktop\IP\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1030" />
+    <option name="width" value="897" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="proiectIpit3V1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proiectIpit3V1.2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proiectIpit3V1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proiectIpit3V1.2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proiectIpit3V1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proiectIpit3V1.2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Algoritmi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proiectIpit3V1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proiectIpit3V1.2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DatabaseConnection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proiectIpit3V1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proiectIpit3V1.2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DateBd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="proiectIpit3V1.2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proiectIpit3V1.2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="junitTesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558287191300" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hamcrest-core-1.3.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="DateBd" />
+      <recent name="CreatorComisie" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.testBack">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="proiectIpit2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proiectIpit2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junitTesting" />
+      <option name="MAIN_CLASS_NAME" value="junitTesting.TestBack" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGreedy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proiectIpit2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junitTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junitTesting" />
+      <option name="MAIN_CLASS_NAME" value="junitTesting.TestGreedy" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proiectIpit2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algoritmi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junitTesting" />
+      <option name="MAIN_CLASS_NAME" value="junitTesting.testBack" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testGreedy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proiectIpit2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algoritmi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junitTesting" />
+      <option name="MAIN_CLASS_NAME" value="junitTesting.testGreedy" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.testGreedy" />
+      <item itemvalue="JUnit.testBack" />
+      <item itemvalue="JUnit.TestGreedy" />
+      <item itemvalue="JUnit.TestBack" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testBack" />
+        <item itemvalue="JUnit.testGreedy" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestGreedy" />
+        <item itemvalue="JUnit.TestBack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="412fcdcc-2fb5-409c-b401-19a1b91449cf" name="Default Changelist" comment="" />
+      <created>1555846592854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555846592854</updated>
+      <workItem from="1555877143881" duration="6708000" />
+      <workItem from="1556907766936" duration="20000" />
+      <workItem from="1556907808706" duration="8852000" />
+      <workItem from="1556960975647" duration="1569000" />
+      <workItem from="1556985369333" duration="4420000" />
+      <workItem from="1557054701816" duration="13783000" />
+      <workItem from="1557144930003" duration="685000" />
+      <workItem from="1557252890525" duration="47000" />
+      <workItem from="1557679146410" duration="6546000" />
+      <workItem from="1557692825883" duration="17000" />
+      <workItem from="1557692847308" duration="1231000" />
+      <workItem from="1557698758278" duration="213000" />
+      <workItem from="1557698991144" duration="2426000" />
+      <workItem from="1557701468594" duration="23000" />
+      <workItem from="1557701566043" duration="156000" />
+      <workItem from="1557701790798" duration="104000" />
+      <workItem from="1557701930566" duration="347000" />
+      <workItem from="1557748774216" duration="1187000" />
+      <workItem from="1558282447803" duration="4340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestGreedy - 2019.05.13 at 14h 11m 54s.xml">
+      <configuration name="TestGreedy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGreedy - 2019.05.13 at 14h 12m 09s.xml">
+      <configuration name="TestGreedy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBack - 2019.05.13 at 14h 14m 23s.xml">
+      <configuration name="TestBack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGreedy - 2019.05.13 at 14h 14m 44s.xml">
+      <configuration name="TestGreedy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGreedy - 2019.05.13 at 14h 15m 36s.xml">
+      <configuration name="TestGreedy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBack - 2019.05.13 at 14h 15m 47s.xml">
+      <configuration name="TestBack" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGreedy - 2019.05.13 at 14h 16m 03s.xml">
+      <configuration name="TestGreedy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGreedy - 2019.05.19 at 19h 00m 50s.xml">
+      <configuration name="TestGreedy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testGreedy - 2019.05.19 at 19h 06m 20s.xml">
+      <configuration name="testGreedy" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testBack - 2019.05.19 at 19h 06m 26s.xml">
+      <configuration name="testBack" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52674000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.336887" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24052005" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.312026" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" visible="true" weight="0.24200426" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>listaProfi.get(nrProf).getNrStudenti()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rezultatGlobal</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>alocareRezultatFinal</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cromozomi[individNr]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(int)((listaStudenti.size()  / nrComisii) * 2.5)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>listaProfesoriCuElevi</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>comisiaProfesorului</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inComisie</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ProfesorNumarStudenti.java" />
+    <entry file="file://$PROJECT_DIR$/src/CreatorComisiiLicenta.java" />
+    <entry file="file://$PROJECT_DIR$/src/CreatorComisie/AlocareTimpStudenti.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/time/LocalDate.java" />
+    <entry file="file://$PROJECT_DIR$/junit.testing/DateBd/StudentTest.java" />
+    <entry file="file://$PROJECT_DIR$/junit.testing/DateBd/ProfesorTest.java" />
+    <entry file="file://$PROJECT_DIR$/junit.testing/DateBd/ProgramareLicentaTest.java" />
+    <entry file="file://$PROJECT_DIR$/junit.testing/DateBd/ComisieLicentaTest.java" />
+    <entry file="file://$PROJECT_DIR$/junit.testing/CreatorComisie/CreatorComisiiLicentaTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/DateBd/ProgramareLicenta.java" />
+    <entry file="file://$PROJECT_DIR$/src/CreatorComisie/ProfesorNumarStudenti.java" />
+    <entry file="file://$PROJECT_DIR$/src/CreatorComisie/CreatorComisiiLicenta.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7512.36963/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/DatabaseConnection.java" />
+    <entry file="file://$PROJECT_DIR$/src/DateBd/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5916">
+          <caret line="387" selection-start-line="387" selection-end-line="387" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DateBd/Profesor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="69" selection-start-line="37" selection-start-column="69" selection-end-line="37" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmi/Greedy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2199">
+          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmi/Genetic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="54" lean-forward="true" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmi/Cronometru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DateBd/ComisieFunctii.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/junitTesting/TestBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/junitTesting/TestGreedy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="656" selection-start-line="656" selection-end-line="656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1051">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmi/CreateInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="139" column="36" lean-forward="true" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algoritmi/Back.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DatabaseConnection/DataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DateBd/Comisie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DateBd/ComisieLicenta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DateBd/ComisieMaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DatabaseConnection/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="86" column="27" lean-forward="true" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/junitTesting/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>proiectIpit2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

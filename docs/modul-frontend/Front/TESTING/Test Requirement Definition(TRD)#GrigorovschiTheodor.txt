@@ -1,0 +1,2 @@
+	Test Requirement Definition specifica ce cazuri trebuie testate pentru fiecare cerinta.
+	Pentru fiecare componenta definita in planul de test vom testa responsiveness ul, navigarea, uzability-ul precum si corectitudiea datelor afisate sau introduse de catre utilizator. Cerintele de testare vor fi discutate mai pe larg in rapoartele de test pentru fiecare componenta acolo unde vor si evaluate componentele.

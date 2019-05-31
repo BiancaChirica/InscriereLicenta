@@ -1,0 +1,39 @@
+
+---
+route: /prof_accounts.json
+method: GET
+params: none
+response: 	array of objects with first_name, last_name, email, degree properties
+			example : 
+			 [
+		        {
+		                "first_name" : "Ilie",
+		                "last_name" : "Paul",
+		                "email" : "iliep@email.com",
+		                "degree" : "Lector"
+		        },
+		        {
+		                "first_name" : "Vlad",
+		                "last_name" : "Adelin",
+		                "email" : "vadelin@email.com",
+		                "degree" : "Profesor"
+		        }
+        	]
+
+---
+route: /add_prof.php
+method: POST
+params: {
+	"first_name" : string,
+    "last_name" : string,
+    "email" : string,
+    "degree" : string
+}
+response: 	the exact input
+			example : 
+	        {
+	                "first_name" : "Ilie",
+	                "last_name" : "Paul",
+	                "email" : "iliep@email.com",
+	                "degree" : "Lector"
+	        }

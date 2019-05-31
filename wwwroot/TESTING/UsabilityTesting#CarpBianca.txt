@@ -1,0 +1,19 @@
+			Usability Testing
+
+	Navigation Testing contine urmatoarele verificari:
+
+-Toate paginile sunt usor de inteles si usor de folosit;
+-Toate butoanele, campurile de completat sunt functionale;
+
+	Content testing checklist:
+
+-Nu sunt greseli gramaticale;
+-Iamginile sunt pozitionate corespunzator;
+-Continutul este informativ, usor de inteles si logic structurat;
+-Instructiunile sunt clare;
+-Informatiile sunt corecte pe paginile: Exam rules, Exam schedule, License form si pe pagina principala;
+
+ Evaluarea uzabilitatii:
+
+-Website-ul este usor de inteles, navigarea este convenabila, nu consider ca website-ul are superfluous sau lucruri inutile;
+

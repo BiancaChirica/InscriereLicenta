@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+*:focus {
+    outline: none;
+}
+
+body {
+    background: #509DE5;
+    background-size: cover;
+
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 8%;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-top: 30px;
+    width: 130px;
+}
+
+.button-zone {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-zone .button-back {
+    background-color: #dd4b39;
+    width: 80px;
+}
+
+.button-zone .button-register {
+    background-color: #0F9D58;
+}
+
+@media screen and (min-width: 768px) {
+    .box-register {
+        margin-top: -70px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .box-register {
+        margin-top: 0;
+        width: 100%;
+    }
+}
+

@@ -1,0 +1,326 @@
+.card {
+    position: relative;
+    width: 315px; /* Remove for full width */
+    height: 450px; /* Remove for full width */
+    margin: 30px auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .3);
+}
+
+.card-header {
+    position: relative;
+    height: 220px;
+    background-size: cover;
+    background-position: top;
+}
+
+.card-header:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.card-header-bar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    width: 100%;
+}
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    clip: rect(0, 0, 0, 0);
+    border: none;
+    overflow: hidden;
+}
+
+svg .polygon {
+    fill: #fff;
+}
+
+.card-header-slanted-edge {
+    position: absolute;
+    bottom: -6px;
+    z-index: 1;
+    width: 100%;
+    right: 0;
+    left: 0;
+}
+
+.btn-edit {
+    position: absolute;
+    top: -15px;
+    right: 25px;
+    width: 45px;
+    height: 45px;
+    background: linear-gradient(to left, #2D77C1, #68FAC2);
+    border-radius: 100%;
+    box-shadow: 0 10px 15px rgba(110, 221, 235, .53);
+    cursor: pointer;
+}
+
+.btn-edit:after {
+    content: '';
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn-edit span {
+    display: block;
+    padding-top: 15px;
+    text-align: center;
+    line-height: 1em;
+    font-weight: bold;
+    color: black;
+}
+
+.card-body {
+    text-align: center;
+    padding-left: 10px;
+}
+
+.name {
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+
+.card-footer {
+    /*position:fixed; /* Full card width/height */
+    position: absolute; /* Fixed card width/height */
+
+    left: 0;
+    width: 100%;
+    bottom: 20px;
+}
+
+.stat {
+    box-sizing: border-box;
+    width: calc(100% / 3);
+    float: left;
+    text-align: center;
+    border-left: 1px solid #EBEBEB;
+}
+
+.stat .label {
+    display: block;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 11px;
+    letter-spacing: 1px;
+    color: #95989A;
+}
+
+.stat .value {
+    display: block;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+#sc-password {
+  background: ghostwhite;
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 8px;
+  margin-bottom: 2%;
+  transition: opacity 1s;
+  -webkit-transition: opacity 1s;
+}
+
+#sc-password h1 {
+  background: #3399cc;
+  padding: 20px 0;
+  font-size: 140%;
+  font-weight: 300;
+  text-align: center;
+  color: #fff;
+}
+
+div#sc-password .sc-container {
+  background: ghostwhite;
+  padding: 6% 4%;
+}
+
+div#sc-password input[type="text"],
+div#sc-password input[type="password"] {
+  width: 92%;
+  background: #fff;
+  margin-bottom: 4%;
+  border: 1px solid #ccc;
+  padding: 4%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 95%;
+  color: #555;
+}
+
+div#sc-password input[type="submit"] {
+  width: 100%;
+  background: #3399cc;
+  border: 0;
+  padding: 4%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100%;
+  color: #fff;
+  cursor: pointer;
+  transition: background .3s;
+  -webkit-transition: background .3s;
+}
+
+div#sc-password input[type="submit"]:hover {
+  background: #2288bb;
+}
+
+/* admin account manager (edi)*/
+
+.all-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    margin-top: 30px;
+}
+
+.change-password {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 600px;
+    height: 310px;
+    background-color: #ededed;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+
+    font-size: 18px;
+}
+
+
+.box-edit-news .button-zone-news {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.button-zone-change {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-change {
+    font-weight: bold;
+    height: 35px;
+    width: 150px;
+    padding-top: 8px;
+}
+
+.change-password .form-change-password {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.change-password label {
+    margin: 10px 0 5px 10px;
+}
+
+.change-password input {
+    height: 35px;
+    padding: 5px;
+    width: 355px;
+    font-size: 18px;
+    color: #424242;
+    border: 1px solid #919191;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+@media screen and (max-width: 830px) {
+    .change-password {
+        width: 375px;
+    }
+}
+
+/* admin account manager (edi)*/
+
+.all-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    margin-top: 30px;
+}
+
+.change-password {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 600px;
+    height: 310px;
+    background-color: #ededed;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+
+    font-size: 18px;
+}
+
+
+.box-edit-news .button-zone-news {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.button-zone-change {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-change {
+    font-weight: bold;
+    height: 35px;
+    width: 150px;
+    padding-top: 8px;
+}
+
+.change-password .form-change-password {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.change-password label {
+    margin: 10px 0 5px 10px;
+}
+
+.change-password input {
+    height: 35px;
+    padding: 5px;
+    width: 355px;
+    font-size: 18px;
+    color: #424242;
+    border: 1px solid #919191;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+@media screen and (max-width: 830px) {
+    .change-password {
+        width: 375px;
+    }
+}
+
